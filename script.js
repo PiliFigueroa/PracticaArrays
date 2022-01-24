@@ -100,3 +100,5 @@ const agregarProducto = (producto) => {
 // agregarProducto('🌶️')
 // agregarProducto('🥕')
 // console.log("despues: ", especies)
+
+//hola soy un comentario
